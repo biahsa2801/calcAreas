@@ -1,3 +1,5 @@
-#Esse programa é um teste
-b = 3
-a = 4 + b
+def area_ret (LadoA, LadoB):
+
+    area = LadoA+ LadoB  
+
+    return area
